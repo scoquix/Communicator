@@ -1,0 +1,69 @@
+D:\Users\Rafał\Desktop\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe.config
+D:\Users\Rafał\Desktop\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe
+D:\Users\Rafał\Desktop\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.pdb
+D:\Users\Rafał\Desktop\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csprojResolveAssemblyReference.cache
+D:\Users\Rafał\Desktop\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.mainWindow.resources
+D:\Users\Rafał\Desktop\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.Properties.Resources.resources
+D:\Users\Rafał\Desktop\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.GenerateResource.Cache
+D:\Users\Rafał\Desktop\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.exe
+D:\Users\Rafał\Desktop\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.pdb
+D:\Users\Rafał\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe.config
+D:\Users\Rafał\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.exe
+D:\Users\Rafał\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.pdb
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe.config
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.exe
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.pdb
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.mainWindow.resources
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.pdb
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sebastian\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.ResolveComReference.cache
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe.config
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\Interop.WMPLib.dll
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.ResolveComReference.cache
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.exe
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.pdb
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.pdb
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\Interop.WMPLib.dll
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csprojResolveAssemblyReference.cache
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.mainWindow.resources
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.Properties.Resources.resources
+C:\Users\3ic2\Desktop\Communicator_v4\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.GenerateResource.Cache
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe.config
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.ResolveComReference.cache
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.exe
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.pdb
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.pdb
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csprojResolveAssemblyReference.cache
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.mainWindow.resources
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.Properties.Resources.resources
+C:\Users\Szafrański Sebastian\Desktop\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.GenerateResource.Cache
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe.config
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.exe
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\CommunicatorServer.pdb
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\Interop.WMPLib.dll
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\bin\Debug\AxInterop.WMPLib.dll
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csprojAssemblyReference.cache
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\Interop.WMPLib.dll
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\AxInterop.WMPLib.dll
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.ResolveComReference.cache
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.mainWindow.resources
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.Properties.Resources.resources
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.GenerateResource.cache
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.CoreCompileInputs.cache
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.exe
+E:\Communicator_v6\CommunicatorServer_v1\CommunicatorServer\obj\Debug\CommunicatorServer.pdb
